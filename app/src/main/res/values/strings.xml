@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FAMI Mutual Fund Computation Application</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+    <string name="linktofami2"><a href="https://fami.com.ph/">a. What is about FAMI?</a></string>
+
+    <string name="linktofami">a. What is about <a href="https://fami.com.ph/">FAMI?</a></string>
+</resources>
